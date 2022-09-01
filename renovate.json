@@ -5,7 +5,7 @@
   ],
   "lockFileMaintenance": {
     "enabled": true,
-    "schedule": "every day at 1am"
+    "schedule": "before 1am"
   },
-  "schedule": "every day at 1am"
+  "schedule": "before 1am"
 }
